@@ -10,5 +10,4 @@ TestNg / JUnit,
 Hamcrest,
 AssertJ,
 Selenium Webdriver,
-Github,
-
+Github.
